@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anhtu91
+- 👋 Hi, I’m Anh Tu Nguyen
 - 👀 I’m interested in Embedded software development and everything related to Internet of Things.
 - 🌱 I’m currently learning ARM MCU Architecture like TI MSP432, STM32.
 - 💞️ I’m looking to collaborate on "Internet of Things" projects. 
