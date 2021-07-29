@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anh Tu Nguyen
-- 👀 I’m interested in embedded software development and everything related to Internet of Things (Web, App, Communication Protocol and so on) as well as Automotive (CAN-BUS Protocol).
+- 👀 I’m interested in embedded software development and everything related to Internet of Things (Web, App, Backend, Communication Protocol and so on) as well as Automotive (CAN-BUS Protocol).
 - 🌱 I’m currently learning ARM MCU Architecture like TI MSP432, STM32.
 - 💞️ I’m looking to collaborate on Internet of Things or Automotive projects. 
 - 📫 How to reach me: https://www.linkedin.com/in/anh-tu-nguyen-coder/
