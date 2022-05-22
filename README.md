@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anh Tu Nguyen
-- 👀 I’m interested in embedded software development.
+- 👀 I’m interested in embedded software/hardware development.
 
 <!---
 anhtu91/anhtu91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
